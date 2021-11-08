@@ -1,3 +1,3 @@
 # pokemonapp
 
-### Pruebas con EAS Build - dev-client Expo
+### Pruebas con EAS Build - dev-client Expo.
